@@ -29,7 +29,7 @@ A comprehensive esports management simulation for Valorant, featuring realistic 
 - 1366x768 screen resolution or higher
 
 ## Installation
-Download Instructions
+#Download Instructions
 ⚠️ Important Notice
 • Only use this official link for downloads
 • Do not reupload or share files through other channels
