@@ -45,7 +45,7 @@ A comprehensive esports management simulation for Valorant, featuring realistic 
 6. Track player and team histories in the dedicated history tabs
 
 ## Future Plans
-
+- Enhanced Agent Selection System
 - Coach Mode with training, tactics, and team building
 - Expanded transfer market with bidding wars and loan systems
 - Financial management for teams
