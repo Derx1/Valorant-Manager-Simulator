@@ -32,6 +32,7 @@ A comprehensive esports management simulation for Valorant, featuring realistic 
 #Download Instructions
 
 ⚠️ Important Notice
+
 • Only use this official link for downloads
 
 • Do not reupload or share files through other channels
