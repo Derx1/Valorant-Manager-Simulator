@@ -20,6 +20,7 @@ A comprehensive esports management simulation for Valorant, featuring realistic 
 <img src="https://github.com/user-attachments/assets/55ec23b3-9c08-44cd-a4c2-024b5c9b0ccf" width="400">
 <img src="https://github.com/user-attachments/assets/90981327-b644-43ec-9720-f9b35fb6955f" width="400">
 <img src="https://github.com/user-attachments/assets/4ea74f0b-0d86-4f8f-a6b5-91676af12090" width="400">
+
 ## System Requirements
 
 - Windows 10 or later
