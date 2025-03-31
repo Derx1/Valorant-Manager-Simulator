@@ -33,8 +33,11 @@ A comprehensive esports management simulation for Valorant, featuring realistic 
 
 ⚠️ Important Notice
 • Only use this official link for downloads
+
 • Do not reupload or share files through other channels
+
 • Do not use/download any archives from unauthorized sources
+
 1. Download the executable from the [Google Drive link](https://drive.google.com/file/d/17VEGivP_0q3rmFrcgjhCvzL3Yi1Nz4Oh/view)
 2. Run the installer and follow the on-screen instructions
 3. Launch the application from the created desktop shortcut or start menu entry
