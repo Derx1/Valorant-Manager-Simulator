@@ -29,11 +29,14 @@ A comprehensive esports management simulation for Valorant, featuring realistic 
 - 1366x768 screen resolution or higher
 
 ## Installation
-
+Download Instructions
+⚠️ Important Notice
+• Only use this official link for downloads
+• Do not reupload or share files through other channels
+• Do not use/download any archives from unauthorized sources
 1. Download the executable from the [Google Drive link](https://drive.google.com/file/d/17VEGivP_0q3rmFrcgjhCvzL3Yi1Nz4Oh/view)
-2. Only Download for this link, don't reupload and don't downloand any archive if isn't with this link
-3. Run the installer and follow the on-screen instructions
-4. Launch the application from the created desktop shortcut or start menu entry
+2. Run the installer and follow the on-screen instructions
+3. Launch the application from the created desktop shortcut or start menu entry
 
 ## Usage
 
@@ -50,7 +53,7 @@ A comprehensive esports management simulation for Valorant, featuring realistic 
 - Expanded transfer market with bidding wars and loan systems
 - Financial management for teams
 - Enhanced visualization for match statistics and player performance
-- Saving carrers
+- Career Save/Load System
   
 ## Disclaimer
 
