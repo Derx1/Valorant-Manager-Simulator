@@ -68,9 +68,13 @@ This application is a fan project and is not affiliated with or endorsed by Riot
 
 For issues, suggestions, or feedback, please open an issue on this GitHub repository or contact me directly.
 
+
 ##Credits
-Developed by [André Ribeiro Xavier]
+
+Developed by André Ribeiro Xavier
+
 All Valorant IP and related content belongs to Riot Games
+
 
 ## License
 
