@@ -1,13 +1,12 @@
 # Valorant-Manager-Simulator
 https://drive.google.com/file/d/17VEGivP_0q3rmFrcgjhCvzL3Yi1Nz4Oh/view
-# Valorant Manager Simulator
 
 A comprehensive esports management simulation for Valorant, featuring realistic tournament circuits, player transfers, team management, and detailed statistics tracking.
 
 ## Features
 
 - **Complete Esports Ecosystem**: Simulates the full Valorant Champions Tour circuit with Kickoff, Stage 1, Masters 1, Stage 2, Masters 2, and Champions tournaments
-- **Realistic Team & Player Management**: Over 170 teams and 850+ players with authentic attributes, roles, nationalities, and agent preferences
+- **Realistic Team & Player Management**: 48 teams and 240+ players with authentic attributes, roles, nationalities, and agent preferences
 - **Advanced Match Simulation**: Detailed match simulations with map picks, agent compositions, and round-by-round gameplay
 - **Interactive Tournament Brackets**: Visual tournament brackets with group stages and playoff structures
 - **Comprehensive Statistics**: Track player performance, team achievements, and tournament results over multiple years
@@ -17,7 +16,10 @@ A comprehensive esports management simulation for Valorant, featuring realistic 
 
 ## Screenshots
 
-[Screenshots will be added in the future]
+![Main Menu](https://prnt.sc/Rg2Whs1eJFJ3)
+![Interfase](![image](https://github.com/user-attachments/assets/58916a2a-470a-4eef-a605-7652a55b84d0))
+![Tournament Bracket](https://user-images.githubusercontent.com/your_user_id/image_id_2.png)
+![Match Details](https://user-images.githubusercontent.com/your_user_id/image_id_3.png)
 
 ## System Requirements
 
@@ -29,8 +31,9 @@ A comprehensive esports management simulation for Valorant, featuring realistic 
 ## Installation
 
 1. Download the executable from the [Google Drive link](https://drive.google.com/file/d/17VEGivP_0q3rmFrcgjhCvzL3Yi1Nz4Oh/view)
-2. Run the installer and follow the on-screen instructions
-3. Launch the application from the created desktop shortcut or start menu entry
+2. Only Download for this link, don't reupload and don't downloand any archive if isn't with this link
+3. Run the installer and follow the on-screen instructions
+4. Launch the application from the created desktop shortcut or start menu entry
 
 ## Usage
 
@@ -43,13 +46,12 @@ A comprehensive esports management simulation for Valorant, featuring realistic 
 
 ## Future Plans
 
-- Coach Mode enhancements with training, tactics, and team building
-- Player personality traits affecting team chemistry
+- Coach Mode with training, tactics, and team building
 - Expanded transfer market with bidding wars and loan systems
-- Custom tournament creation
 - Financial management for teams
 - Enhanced visualization for match statistics and player performance
-
+- Saving carrers
+  
 ## Disclaimer
 
 This application is a fan project and is not affiliated with or endorsed by Riot Games. All Valorant intellectual property belongs to Riot Games.
@@ -58,8 +60,10 @@ This application is a fan project and is not affiliated with or endorsed by Riot
 
 For issues, suggestions, or feedback, please open an issue on this GitHub repository or contact me directly.
 
+##Credits
+Developed by [André Ribeiro Xavier]
+All Valorant IP and related content belongs to Riot Games
+
 ## License
 
-This project is available as freeware for personal use only.
-License
 This project is available as freeware for personal use only.
