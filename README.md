@@ -15,11 +15,11 @@ A comprehensive esports management simulation for Valorant, featuring realistic 
 - **Historical Data**: Comprehensive tracking of player careers, team rosters, and tournament results
 
 ## Screenshots
-![Main Menu](![image](https://github.com/user-attachments/assets/01e67e7e-0763-4cec-9bfb-777239438f7b)
+![image](https://github.com/user-attachments/assets/01e67e7e-0763-4cec-9bfb-777239438f7b)
 )
-![Tournament Bracket](![image](https://github.com/user-attachments/assets/2d4d562e-0883-44d2-8c48-ad23836f1f2c)
+(![image](https://github.com/user-attachments/assets/2d4d562e-0883-44d2-8c48-ad23836f1f2c)
 )
-![Match Details](![image](https://github.com/user-attachments/assets/55ec23b3-9c08-44cd-a4c2-024b5c9b0ccf)
+(![image](https://github.com/user-attachments/assets/55ec23b3-9c08-44cd-a4c2-024b5c9b0ccf)
 ![image](https://github.com/user-attachments/assets/90981327-b644-43ec-9720-f9b35fb6955f)
 ![image](https://github.com/user-attachments/assets/4ea74f0b-0d86-4f8f-a6b5-91676af12090)
 
