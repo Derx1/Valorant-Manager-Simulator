@@ -16,11 +16,12 @@ A comprehensive esports management simulation for Valorant, featuring realistic 
 
 ## Screenshots
 
-![Main Menu](https://prnt.sc/Rg2Whs1eJFJ3)
-![Interface](![image](https://github.com/user-attachments/assets/58916a2a-470a-4eef-a605-7652a55b84d0))
-![Tournament Bracket](https://user-images.githubusercontent.com/your_user_id/image_id_2.png)
-![Match Details](https://user-images.githubusercontent.com/your_user_id/image_id_3.png)
-
+| Main Menu | Tournament Bracket |
+|:---:|:---:|
+| ![Main Menu](![image](https://github.com/user-attachments/assets/480d0c7c-0800-4dce-949d-0c700210abd9)
+) | ![Tournament Bracket](screenshots/tournament_bracket.png) |
+| **Match Details** | **Player Profile** |
+| ![Match Details](screenshots/match_details.png) | ![Player Profile](screenshots/player_profile.png) |
 ## System Requirements
 
 - Windows 10 or later
