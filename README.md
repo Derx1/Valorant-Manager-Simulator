@@ -1,5 +1,5 @@
 # Valorant-Manager-Simulator
-[[https://drive.google.com/file/d/17VEGivP_0q3rmFrcgjhCvzL3Yi1Nz4Oh/view](https://drive.google.com/file/d/17cr1GSfxifLSVnp8FzVzg5PYmSoZZgUZ/view?usp=sharing)](https://drive.google.com/file/d/1YySitON0B1tnpsrlKfVNo1ITKh4eouii/view?usp=sharing)
+(https://drive.google.com/file/d/17cr1GSfxifLSVnp8FzVzg5PYmSoZZgUZ/view?usp=sharing)]
 
 A comprehensive esports management simulation for Valorant, featuring realistic tournament circuits, player transfers, team management, and detailed statistics tracking.
 
